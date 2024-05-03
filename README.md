@@ -1,2 +1,3 @@
-# Data_Cleaning_Titanic
-The Titanic data cleaning process is archived in this repository
+# Data Cleaning Titanic
+
+This repository contains the data cleaning process for the Titanic dataset available at: https://www.kaggle.com/datasets/hesh97/titanicdataset-traincsv
