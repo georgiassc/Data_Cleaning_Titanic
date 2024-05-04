@@ -1,6 +1,6 @@
 # Data Cleaning Titanic
 <img src='https://t3.ftcdn.net/jpg/05/70/92/26/360_F_570922643_DPh6V3LhnUgSDDDbpznUvgKeGiF8TgnR.jpg'>
-<img  src='https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white'>
+<img  src='https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252'>
 
 ## About 
 
